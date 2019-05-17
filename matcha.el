@@ -74,7 +74,7 @@
     gud-lldb
     (js js2-mode rjsx-mode)
     json-mode
-    lua-mode
+    ;; lua-mode
     (:file magit :autoloads matcha-magit)
     meghanada
     notmuch
